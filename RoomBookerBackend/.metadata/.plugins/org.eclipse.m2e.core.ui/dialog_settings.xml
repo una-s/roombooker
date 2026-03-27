@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\Asus\Desktop\roombooker\RoomBookerBackend"/>
 			<item value="C:\Users\Asus\Desktop\RoomBookerBackend"/>
 		</list>
 		<list key="projectNameTemplate">
